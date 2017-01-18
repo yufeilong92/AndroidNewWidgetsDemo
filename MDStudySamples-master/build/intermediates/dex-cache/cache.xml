@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_33c0721cf74b9917545bab5b3e6568c3173e2ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_d67d03ae2426ed9082876146e484437a5be2def7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_e197d47225a1431a8727927a90012e9ffbb229c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8d3013a20cc03042a39c02c32c85be1a0bdd1f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_7addd974bd3c1d1b8bc1cc0da3135cc4abe30d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_ce022d5fc50e901656644bde49d86a9df96d9d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_1bef7a49074b9afb1771c5df40326e123f6ae2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_979e36647475fd86d6906d0c9199cb540db5f06e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_35eaf87fcd2f8587f597b206f759a9d2431e0411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6dd59dcf638ef6f7121929633fcc5291609aece0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_0eede266836f43135dc707e711857d50e0069326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_72de1804d50fe1158b0a49b4a0a9158777255bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_ba98ddee9647d3f2a08afc9d110db1fbaec05359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_e7c403d4ac1d0a1be673ad51701b097d5fdea5bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk_r24.4.1-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_81b4153fbd966208aa65d067a4a2af4cd54cf76c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_be878d16f35d8cce6286517cd127d46b8a8530de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_13c6ac2d362d48934dc5ee7a42584aca55a87e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_75483d484374681f6011bcaacfd8bef55e513c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_306947846c830dd8548226ee826b9173fc0ec89f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d49d712a880ee108eed44ecca5032cb6cb6719e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\new_weight\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\new_weight\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_baead3693e4fe293adb1c05afe5c2ca4bf3fef42.jar" />
+    </item>
+
+</items>
